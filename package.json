@@ -1,0 +1,30 @@
+{
+  "name": "html2bemdecl",
+  "version": "0.1.0",
+  "description": "A simple tool for converting html files into bem declarations (bemdecl.js)",
+  "keywords": [
+    "bem",
+    "markup"
+  ],
+  "author": "Artem Kiselev <artem.kiselev@gmail.com> (https://github.com/hemantic/)",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hemantic/html2bemdecl.git"
+  },
+  "main": "./lib/main.js",
+  "bin": {
+    "html2bemdecl": "./bin/html2bemdecl"
+  },
+  "dependencies": {
+    "jsdom": ">= 0.0.1",
+    "commander": ">= 0.0.1"
+  },
+  "devDependencies": {},
+  "engines": {
+    "node": ">= 0.6.x"
+  },
+  "scripts": {
+    "test": "html2bemdecl --help"
+  },  
+  "license": "BSD"
+}
