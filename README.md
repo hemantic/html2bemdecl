@@ -26,3 +26,5 @@ Options:
 ```
 
 You must specify paths to input and output files. That's all!
+
+NOTE: bem-friendly HTML means that all your bem classes start with b- l- or i- prefixes. Only such blocks will be parsed.
