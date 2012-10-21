@@ -5,7 +5,7 @@ A simple tool for converting bem-friendly HTML files into bemdecl.js declaration
 ## Install
 
 ```bash
-$ [sudo] npm install html2bemdecl -g
+$ [sudo] npm install html2bemdecl [-g]
 ```
 
 ## Usage
