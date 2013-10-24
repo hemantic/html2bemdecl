@@ -16,7 +16,7 @@
     "html2bemdecl": "./bin/html2bemdecl"
   },
   "dependencies": {
-    "jsdom": "= 0.0.1",
+    "jsdom": "0.0.1",
     "commander": ">= 0.0.1"
   },
   "devDependencies": {},
