@@ -1,6 +1,6 @@
 {
   "name": "html2bemdecl",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "A simple tool for converting html files into bem declarations (bemdecl.js)",
   "keywords": [
     "bem",
@@ -16,7 +16,7 @@
     "html2bemdecl": "./bin/html2bemdecl"
   },
   "dependencies": {
-    "jsdom": "0.0.1",
+    "jsdom": ">= 0.2.0",
     "commander": ">= 0.0.1"
   },
   "devDependencies": {},
